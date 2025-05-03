@@ -1,3 +1,3 @@
--南工大程序设计基础期末大作业--通讯录管理系统
+# NJTECH-advanced-programming-final-project
 此版本为最简单版本
 适合自己的才是最好的，只给有需要的人
